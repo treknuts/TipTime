@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Tip Time</string>
+    <string name="cost_of_service_hint">Cost of service</string>
+    <string name="service_question">How was the service?</string>
+    <string name="option_fifteen_percent">Okay (15%)</string>
+    <string name="icon_option_fifteen_percent_hint">Okay Icon</string>
+    <string name="option_eighteen_percent">Good (18%)</string>
+    <string name="icon_option_eighteen_percent_hint">Satisfied Icon</string>
+    <string name="option_twenty_percent">Best (20%)</string>
+    <string name="icon_option_twenty_percent_hint">Very Satisfied Icon</string>
+    <string name="switch_hint">Round to nearest dollar?</string>
+    <string name="button_calculate_text">Calculate</string>
+    <string name="tip_amount">%s</string>
+    <string name="tip_label">Tip Amount</string>
+</resources>
